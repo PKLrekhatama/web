@@ -118,10 +118,10 @@
               </div>
               <!-- End Dropdown Menus -->
                 <a
-                  href="#"
+                  href="/contactUs"
                   class="rounded-md px-3 py-2 text-sm font-medium text-black-300 hover:bg-gray-700 hover:text-white"
                 >
-                  Calendar
+                  Contact Us
                 </a>
               </div>
             </div>
@@ -355,14 +355,6 @@
           items: [
             { label: "Rekhatama", url: "/aboutUs/rekhatama" },
             { label: "Our Teams", url: "/aboutUs/ourTeams" },
-            { label: "Contact Us", url: "/aboutUs/contactUs" },
-          ],
-        },
-        {
-          name: "Lainnya",
-          items: [
-            { label: "Blog", url: "/blog" },
-            { label: "Karier", url: "/careers" },
           ],
         },
       ],
