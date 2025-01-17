@@ -3,7 +3,7 @@
   <main class="py-8 px-4">
       <div class="max-w-7xl mx-auto">
         <!-- Title -->
-        <h2 class="text-3xl font-bold text-white text-center mb-6">
+        <h2 class="text-3xl font-bold text-black text-center mb-6">
           Our Product
         </h2>
 

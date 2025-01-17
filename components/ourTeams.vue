@@ -90,7 +90,7 @@
         </div>
         <!-- Profile Info -->
         <div
-          class="relative z-10 transition-transform duration-500 ease-in-out group-hover:-translate-y-10"
+          class="relative z-5 transition-transform duration-500 ease-in-out group-hover:-translate-y-10"
         >
           <span class="text-2xl font-semibold">George Johnson</span>
           <p>Support Specialist</p>

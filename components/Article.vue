@@ -1,13 +1,13 @@
 <template>
-    <div class=" con min-h-screen py-8 px-4">
+    <div class="con min-h-screen py-8 px-4">
         <div class="max-w-5xl mx-auto">
         <!-- Title -->
-        <h1 class="text-3xl font-bold text-white text-center mb-6">
+        <h1 class="text-3xl font-bold text-black text-center mb-6">
             Latest News & Article
         </h1>
         
         <!-- Articles Grid -->
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6" data-aos="zoom-out-up">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6" data-aos="zoom-in-up">
             <div 
             v-for="(article, index) in articles" 
             :key="index" 
@@ -88,8 +88,5 @@ export default {
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
-}
-.con{
-    background-color: rgb(64,102,140) !important;
 }
 </style>

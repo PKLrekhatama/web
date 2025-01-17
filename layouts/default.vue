@@ -8,8 +8,11 @@
 </template>
 
 <style>
+/* *{
+  border: 1px solid red !important;
+} */
 .con{
-    background-color: rgb(64,102,140) !important;
+    background-color: rgb(241,241,241) !important;
 }
 
 </style>

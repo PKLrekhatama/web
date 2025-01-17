@@ -19,7 +19,7 @@
       </div>
     </div>
 
-    <div class="container text-white mx-auto p-4">
+    <div class="container text-black mx-auto p-4">
       <div class="text-center mb-8" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom">
         <h1 class="text-2xl font-bold"></h1>

@@ -14,10 +14,10 @@
   <style scoped>
   .parallax {
     /* The image used */
-    background-image: url("/assets/img/bg.jpg");
+    background-image: url("https://www.rekhatama.com/rekha/themes/tarapro/images/demo/slider/slider_spbe_new.jpg");
   
     /* Set a specific height */
-    min-height: 500px;
+    height: 70vh;
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;

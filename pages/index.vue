@@ -14,9 +14,5 @@
 </script>
 
 <style scoped>
-.con{
-    background-color: rgb(64,102,140) !important;
-}
-
 
 </style>

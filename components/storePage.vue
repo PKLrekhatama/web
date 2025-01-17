@@ -1,11 +1,11 @@
 <template>
-    <div class="bg-blue-900 min-h-screen py-4 px-2">
+    <div class="con min-h-screen py-4 px-2">
       <!-- Store Content -->
       <main class="py-4 px-2">
         <div class="max-w-7xl mx-auto">
           <!-- Title -->
-          <h2 class="text-3xl font-bold text-white text-center mb-4">
-            Our Store
+          <h2 class="text-3xl font-bold text-black text-center mb-4">
+            Our Product
           </h2>
   
           <!-- Grid Layout for Products -->
